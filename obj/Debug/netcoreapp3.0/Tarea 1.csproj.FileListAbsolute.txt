@@ -1,0 +1,18 @@
+C:\Users\rody castro cuello\Documents\PROGRAMACION\Programacion III\Tarea 1\Tarea 1\bin\Debug\netcoreapp3.0\Tarea 1.exe
+C:\Users\rody castro cuello\Documents\PROGRAMACION\Programacion III\Tarea 1\Tarea 1\bin\Debug\netcoreapp3.0\Tarea 1.deps.json
+C:\Users\rody castro cuello\Documents\PROGRAMACION\Programacion III\Tarea 1\Tarea 1\bin\Debug\netcoreapp3.0\Tarea 1.runtimeconfig.json
+C:\Users\rody castro cuello\Documents\PROGRAMACION\Programacion III\Tarea 1\Tarea 1\bin\Debug\netcoreapp3.0\Tarea 1.runtimeconfig.dev.json
+C:\Users\rody castro cuello\Documents\PROGRAMACION\Programacion III\Tarea 1\Tarea 1\bin\Debug\netcoreapp3.0\Tarea 1.dll
+C:\Users\rody castro cuello\Documents\PROGRAMACION\Programacion III\Tarea 1\Tarea 1\bin\Debug\netcoreapp3.0\Tarea 1.pdb
+C:\Users\rody castro cuello\Documents\PROGRAMACION\Programacion III\Tarea 1\Tarea 1\obj\Debug\netcoreapp3.0\Tarea 1.csprojAssemblyReference.cache
+C:\Users\rody castro cuello\Documents\PROGRAMACION\Programacion III\Tarea 1\Tarea 1\obj\Debug\netcoreapp3.0\Tarea 1.AssemblyInfoInputs.cache
+C:\Users\rody castro cuello\Documents\PROGRAMACION\Programacion III\Tarea 1\Tarea 1\obj\Debug\netcoreapp3.0\Tarea 1.AssemblyInfo.cs
+C:\Users\rody castro cuello\Documents\PROGRAMACION\Programacion III\Tarea 1\Tarea 1\obj\Debug\netcoreapp3.0\Tarea 1.dll
+C:\Users\rody castro cuello\Documents\PROGRAMACION\Programacion III\Tarea 1\Tarea 1\obj\Debug\netcoreapp3.0\Tarea 1.pdb
+C:\Users\rody castro cuello\Documents\PROGRAMACION\Programacion III\Tarea 1\Tarea 1\bin\Debug\netcoreapp3.0\HtmlAgilityPack.NetCore.dll
+C:\Users\rody castro cuello\Documents\PROGRAMACION\Programacion III\Tarea 1\Tarea 1\obj\Debug\netcoreapp3.0\Tarea 1.csproj.CopyComplete
+C:\Users\rody castro cuello\Documents\PROGRAMACION\Programacion III\Tarea 1\Tarea 1\bin\Debug\netcoreapp3.0\HtmlAgilityPack.dll
+C:\Users\rody castro cuello\Documents\PROGRAMACION\Programacion III\Tarea 1\Tarea 1\bin\Debug\netcoreapp3.0\Fizzler.dll
+C:\Users\rody castro cuello\Documents\PROGRAMACION\Programacion III\Tarea 1\Tarea 1\bin\Debug\netcoreapp3.0\Fizzler.Systems.HtmlAgilityPack.dll
+C:\Users\rody castro cuello\Documents\PROGRAMACION\Programacion III\Tarea 1\Tarea 1\obj\Debug\netcoreapp3.0\Tarea 1.csproj.CoreCompileInputs.cache
+C:\Users\rody castro cuello\Documents\PROGRAMACION\Programacion III\Tarea 1\Tarea 1\obj\Debug\netcoreapp3.0\Tarea 1.genruntimeconfig.cache
